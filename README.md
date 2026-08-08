@@ -1,5 +1,3 @@
-# Hero FinCorp Loan Analysis
-
 ## Project Overview
 
 This project analyzes loan, customer, transaction, application, default,
