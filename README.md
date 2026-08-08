@@ -50,5 +50,4 @@ Hero_FinCorp_Analysis/
 ├── plots/
 ├── Hero_FinCorp_Analysis.ipynb
 ├── README.md
-├── .gitignore
-└── report.docx
+└── .gitignore
